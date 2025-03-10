@@ -1,1 +1,1 @@
-https://app.netlify.com/sites/teammembercard/overview
+https://endearing-gaufre-6bab1d.netlify.app/
